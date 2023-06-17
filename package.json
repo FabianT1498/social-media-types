@@ -1,0 +1,15 @@
+{
+  "name": "@fabiantrillo1498/social-media-types",
+  "version": "0.5.2",
+  "description": "Type declarations for social media project",
+  "types": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabian Trillo",
+  "license": "ISC",
+  "repository": " https://github.com/FabianT1498/social-media-types.git",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
+}
