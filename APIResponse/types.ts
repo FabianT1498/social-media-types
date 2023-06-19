@@ -1,4 +1,4 @@
-export namespace SocialMedia.APIResponse {
+export namespace APIResponse {
   export interface APIResponse<T> {
     success: boolean;
     data: T | null;

@@ -1,4 +1,4 @@
-export namespace SocialMedia.Models {
+export namespace Models {
   export interface User {
     _id?: string;
     firstName: string;
