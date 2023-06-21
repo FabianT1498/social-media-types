@@ -1,6 +1,6 @@
 {
   "name": "@fabiant1498/social-media-types",
-  "version": "0.5.2",
+  "version": "0.5.7",
   "description": "Type declarations for social media project",
   "types": "index.d.ts",
   "scripts": {

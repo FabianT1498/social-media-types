@@ -1,5 +1,5 @@
 export namespace APIResponse {
-  export interface APIResponse<T> {
+  export interface ServerResponse<T> {
     success: boolean;
     data: T | null;
     error: {
